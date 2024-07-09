@@ -1,4 +1,4 @@
-# Sakila_DVD_Rental
+# Sakila_DVD_Rental - SQL Analysis
 
 The Sakila database is a nicely normalised schema modelling a DVD rental store, featuring things such as films, actors, film-actor relationships, and a central inventory table that connects movies, stores, and rentals. Find the following queries:
 
